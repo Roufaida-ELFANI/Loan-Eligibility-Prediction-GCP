@@ -5,6 +5,7 @@ imbalanced_learn==0.13.0
 scipy==1.15.2
 fancyimpute==0.7.0
 imblearn==0.0
+flask
 scikit_learn==1.6.1
 uvicorn==0.34.0
 fastapi==0.115.8
